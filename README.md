@@ -6,7 +6,9 @@
 
 This is a plugin for Redmine which lets each user select theme of Redmine from account menu.
 
-https://www.redmine.org/plugins/redmine_theme_changer
+I forked and modified it slightly to make it work how I want on redmine 5.1.2
+
+
 
 ## Plugin installation
 
